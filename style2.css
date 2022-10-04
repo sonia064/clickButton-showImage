@@ -1,0 +1,28 @@
+body
+{
+    background-color: rgb(62, 15, 216);
+    align-items: center;
+}
+.picc
+{
+   position: absolute;
+    padding-left: 470px;
+    align-items: center;
+   
+}
+.colorr
+{
+    display: inline-block;
+   
+    color: rgb(21, 6, 236);
+    background: rgb(10, 237, 249);
+  box-shadow: 2px 2px 2px 0 black;
+   height: 70px;
+   width: 100px;
+   align-items: center;
+   font-weight: 900;
+   font-size: 20px;
+   border-radius: 20%;
+   margin: 30px;
+   margin-left: 180px;
+}
